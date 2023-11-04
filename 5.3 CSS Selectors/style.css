@@ -1,0 +1,22 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+.note{
+  color:red;
+}
+
+.note1{
+  color:black;
+}
+.note2{
+  color:greenyellow;
+}
+.note3{
+  color:blue;
+}
+*{
+  text-align: center;
+}
+/* Write your CSS below, don't change the rules above. */

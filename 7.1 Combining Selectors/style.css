@@ -1,0 +1,11 @@
+/* use coma selector,selector: */
+h1,h2{
+    color:blueviolet;
+}
+/*parent selector>child selector*/
+.box>.done{
+    color:red;
+}
+.box li{
+    color:blue;
+}
